@@ -1,0 +1,6 @@
+spring:
+  redis:
+    database: 23
+    host: pt-redis-cluster-02.wby.dev
+    port: 6379
+    timeout: 5000
